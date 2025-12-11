@@ -1,0 +1,28 @@
+{
+  "default": 64,
+  "byWeekday": {
+    "0": 64,
+    "1": 10,
+    "2": 10,
+    "3": 10,
+    "4": 10,
+    "5": 64,
+    "6": 64
+  },
+  "byTag": {},
+  "byCountryCode": {},
+  "bySource": {},
+  "weekdaySchedule": {
+    "monday": {
+      "managerId": 10,
+      "switchTime": "09:01",
+      "timezone": "Asia/Nicosia"
+    },
+    "friday": {
+      "managerId": 64,
+      "switchTime": "19:01",
+      "timezone": "Asia/Nicosia"
+    }
+  }
+}
+
